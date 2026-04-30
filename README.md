@@ -5,8 +5,8 @@
 
 ## 🚀 Features
 
-- **AI-Powered Hand Tracking:** Built with [MediaPipe](https://google.github.io/mediapipe/), allowing for real-time interaction without the need for VR controllers.
-- **Immersive 3D Experience:** Rendered using [React Three Fiber](https://r3f.docs.pmnd.rs/) and [Three.js](https://threejs.org/).
+- **AI-Powered Hand Tracking:** Built with MediaPipe allowing for real-time interaction without the need for VR controllers.
+- **Immersive 3D Experience:** Rendered using React Three Fiber and Three.js
 - **Dynamic HUD:** Real-time scoring, combo systems, multipliers, and health tracking.
 - **Haptic Feedback:** Physical vibration support for hit impacts (on supported devices).
 - **Webcam Integration:** Low-latency video processing for precise gesture detection.
@@ -59,7 +59,7 @@ To run this project locally, follow these steps:
 
 ## 📜 License
 
-This project is licensed under the Apache-2.0 License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache-2.0 License. 
 
 ## 🤝 Credits
 
