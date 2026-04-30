@@ -2,7 +2,6 @@
 
 **Tempo Strike** is a high-octane, browser-based rhythm game where your body is the controller. Using advanced hand-tracking AI, you slash through "Sparks" in a 3D environment to the beat of the music.
 
-![App Preview Placeholder](https://via.placeholder.com/800x450.png?text=Tempo+Strike+Gameplay+Preview)
 
 ## 🚀 Features
 
